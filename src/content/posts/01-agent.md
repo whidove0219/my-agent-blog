@@ -1,21 +1,13 @@
 ---
 author: whidove0219
-pubDatetime: 2026-07-23T10:00:00Z
-title: Agent 体系化学习路线：从 ReAct 到 LangGraph 状态机
-featured: true
-draft: false
-tags:
-  - AI Agent
-  - ReAct
-  - LangGraph
-description: 本博客的开篇之作，记录我的 AI Agent 体系化学习路线。
+pubDatetime: 2026-07-04T00:00:00Z
+title: 000
 ---
+自动化研报生成器
 
-## 💡 为什么学习 Agent？
 
-学习 AI Agent 的核心在于理解 **“大模型 (Brain) + 记忆 (Memory) + 工具 (Tools) + 规划 (Planning)”** 的架构体系。
+当时做这个工具主要是为了解决日常的数据采集与结构化导出问题，包含了 Python 处理逻辑与输出成果。
 
-### 我的第一步计划
-- [x] 搭建技术博客（Astro + Vercel）
-- [ ] 用 Python 纯手写一个简易 ReAct 核心循环
-- [ ] 进阶 LangGraph 状态机编排
+* **项目源码与成果下载：** [点击下载 py.zip 压缩包](/downloads/py.zip)
+
+> **文件说明：** 解压后包含数据处理脚本及生成的成果文件，可直接作为自动化流处理的参考。
